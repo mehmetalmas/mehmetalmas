@@ -1,4 +1,4 @@
-### Mehmet Almas
+### <h2>Mehmet Almas</h2> 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2307DCE7&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false" align="right"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=mehmetalmas&&style=plastics&&color=yellow" align="right"/> </p>
@@ -28,13 +28,18 @@ JAVA | SPRING | SELENIUM | HTML | CSS | TestNG | CUCUMBER | JIRA | MySQL | API |
 
 <div align="center">
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/> 
-
+</div>
 
  
 <!-- %7C -> alttaki yaziya | eklememize yariyor -->
+<div align="center">
+    
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Mehmet+Almas;+Welcome+to+my+GitHup)
 
+</div>
+
 ## 
+<div align="center">
 
 🌱 I’m currently learning Spring 
 
@@ -56,7 +61,6 @@ JAVA | SPRING | SELENIUM | HTML | CSS | TestNG | CUCUMBER | JIRA | MySQL | API |
 
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
