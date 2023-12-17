@@ -36,8 +36,8 @@ JAVA | SPRING | SELENIUM | HTML | CSS | TestNG | CUCUMBER | JIRA | MySQL | API |
 
 
 
-
-![snake animation](https://github.com/<seu mehmetalmas>/<seu mehmetalmas>/blob/output/github-contribution-grid-snake2.svg)
+## snake eating my contribution graph
+![snake gif](https://github.com/mehmetalmas/mehmetalmas/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 
