@@ -1,7 +1,12 @@
 ### Mehmet Almas
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2307DCE7&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false" align="right"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=mehmetalmas&&style=plastics&&color=yellow" align="right"/> </p>
+
+<!--hanzelkaraagac / yellow  -->
+
 #### Java Developer / Software Testing Engineer
 ![Java Developer / Software Testing Engineer](https://media.licdn.com/dms/image/D5616AQGdqcvekOG-wg/profile-displaybackgroundimage-shrink_350_1400/0/1696024582678?e=1707955200&v=beta&t=naC2T1_oE0yDIHW04RFjLC7ECJY_5dRLLqebKR7GRfE)
-
 
 JAVA | SPRING | SELENIUM | HTML | CSS | TestNG | CUCUMBER | JIRA | MySQL | API | JMETER | JIRA
 ## 
