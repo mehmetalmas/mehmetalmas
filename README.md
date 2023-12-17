@@ -3,23 +3,42 @@
 
 <img src="https://komarev.com/ghpvc/?username=mehmetalmas&&style=plastics&&color=yellow" align="right"/> </p>
 
-<!--hanzelkaraagac / yellow  -->
 
 #### Java Developer / Software Testing Engineer
+
+<div align="center">
+
 ![Java Developer / Software Testing Engineer](https://media.licdn.com/dms/image/D5616AQGdqcvekOG-wg/profile-displaybackgroundimage-shrink_350_1400/0/1696024582678?e=1707955200&v=beta&t=naC2T1_oE0yDIHW04RFjLC7ECJY_5dRLLqebKR7GRfE)
 
+</div>
+
+
+<div align="center">
 JAVA | SPRING | SELENIUM | HTML | CSS | TestNG | CUCUMBER | JIRA | MySQL | API | JMETER | JIRA
-## 
-<div id="header" align="left">
+</div>
+
+#
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,python,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=react,spring,bootstrap,css,html,mysql,postman,github,git" />
+</div>
+
+
+
+<div align="center">
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/> 
+
+
  
 <!-- %7C -> alttaki yaziya | eklememize yariyor -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Mehmet+Almas;+Welcome+to+my+GitHup)
 
 ## 
 
-- 🌱 I’m currently learning Spring 
-- 📫 How to reach me: m.almas63@gmail.com
+🌱 I’m currently learning Spring 
+
+📫 How to reach me: m.almas63@gmail.com
 
 ## 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/63_mehmet_63) 
@@ -36,10 +55,17 @@ JAVA | SPRING | SELENIUM | HTML | CSS | TestNG | CUCUMBER | JIRA | MySQL | API |
 
 
 
-## snake eating my contribution graph
-![snake gif](https://github.com/mehmetalmas/mehmetalmas/blob/output/github-contribution-grid-snake-dark.svg)
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+</div>
