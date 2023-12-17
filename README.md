@@ -18,6 +18,12 @@ JAVA | SPRING | SELENIUM | HTML | CSS | TestNG | CUCUMBER | JIRA | MySQL | API |
 </div>
 
 #
+<!-- 
+<div align="center">
+<img src="https://i.gifer.com/fz6d.gif" width="300"/> 
+</div>
+-->
+
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,python,javascript" /><br>
@@ -34,7 +40,7 @@ JAVA | SPRING | SELENIUM | HTML | CSS | TestNG | CUCUMBER | JIRA | MySQL | API |
 <!-- %7C -> alttaki yaziya | eklememize yariyor -->
 <div align="center">
     
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Mehmet+Almas+Welcome+to+my+GitHup)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+to+my+GitHup)
 
 </div>
 
