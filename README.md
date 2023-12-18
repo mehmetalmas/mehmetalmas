@@ -3,15 +3,13 @@
 
 <img src="https://komarev.com/ghpvc/?username=mehmetalmas&&style=plastics&&color=yellow" align="right"/> </p>
 
-
 #### Java Developer / Software Testing Engineer
 
+<!--
 <div align="center">
-
 ![Java Developer / Software Testing Engineer](https://media.licdn.com/dms/image/D5616AQGdqcvekOG-wg/profile-displaybackgroundimage-shrink_350_1400/0/1696024582678?e=1707955200&v=beta&t=naC2T1_oE0yDIHW04RFjLC7ECJY_5dRLLqebKR7GRfE)
-
 </div>
-
+-->
 
 <div align="center">
 JAVA | SPRING | SELENIUM | HTML | CSS | TestNG | CUCUMBER | JIRA | MySQL | API | JMETER | JIRA
