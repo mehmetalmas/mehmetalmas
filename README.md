@@ -63,14 +63,14 @@ JAVA | SPRING | SELENIUM | HTML | CSS | TestNG | CUCUMBER | JIRA | MySQL | API |
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mehmetalmas&theme=blue-green&hide_border=false)<br/>
 
 
-
+<!--
 <div align="center">
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
-
+-->
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
